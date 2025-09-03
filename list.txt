@@ -1,6 +1,7 @@
 [update]
 ver=1.82c
-url=https://2025-lineage-1-82c.webnode.page/?_gl=1*1uyu9fi*_gcl_au*OTA4OTkzMzA5LjE3NTY5MTYzNzAuMTMxNDk1MDM5OC4xNzU2OTE2MzkwLjE3NTY5MTY0MTI.
+url=https://
 [list]
 ServerData0=jVEzJWi60Ulsu6xxbMrZehMN2BC7VlFX0g9b9an75QAnR3MoqvbI6mf0MULX/FTu+sbxCIOT8eOesh3pl54Xz9TnbvHakHIQDe/AbixhgBva2Yw086P5g6dr2i9L29S20O1F4vPl/M/nRM42Q9NXjYzNdO5ySdzH/NVnNT0MyBbrhpwrPVgG2YZOjhTVlTOTSDhEkBH8mwwaaIejxkTUSxBjjM9HHJx2LJSMcGO2r/MCrnMqu4QZ69ILZiKYIrkIb8I+dKp9AeQK73CSmVNjvQ6Z5lwv
+
 
