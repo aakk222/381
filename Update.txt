@@ -1,6 +1,6 @@
 [main]
 count=1
-url=http://26.30:126.7:80/update/
+url=https://github.com/aakk222/my-server-list/raw/refs/heads/main/
 [update]
 file_0=2.zip
 md5_0=bafe11d0f2c0e9b4cda1ff788077e23c
