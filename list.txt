@@ -1,0 +1,6 @@
+[update]
+ver=2025
+url=http://www.google.com/update/launcher.exe
+cnt=16
+[list]
+ServerData0=jVEzJWi60Ulsu6xxbMrZem819vWVcJzoxEsHiIKk8NcBpGfVyBN2H10rXvG5hoqNPKgP6noDXcOJUYZy7db5L+xmVdh294rS2r/YX+X6tLJAK3WfFEXHWTapHu5B44RA0O1F4vPl/M/nRM42Q9NXjau6a5jKSV8vFXLBjkvEadhrSTqNovfHi1UQ3Pa+LU4Ru90LdWvdGQUKQ6Q4o6blMY/cvdHsMi5WMaSHe/JMm9EAirfkIQ==
