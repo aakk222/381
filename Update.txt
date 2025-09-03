@@ -1,6 +1,6 @@
 [main]
 count=1
-url=https://github.com/aakk222/my-server-list/raw/refs/heads/main/
+url=https://github.com/aakk222/my-server-list/raw/refs/heads/main/2.zip
 [update]
 file_0=2.zip
 md5_0=bafe11d0f2c0e9b4cda1ff788077e23c
