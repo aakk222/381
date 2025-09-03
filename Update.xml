@@ -2,6 +2,6 @@
 <UpdateList>
     <!--更新版本號-->
 	<Update Version="1">
-	   <Item Version="1" Url="">
+	   <Item Version="1" Url="https://github.com/aakk222/my-server-list/blob/main/1.zip">
 	</Update>
 </Update>
