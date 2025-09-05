@@ -1,6 +1,7 @@
 [update]
-ver=1001
+ver=1002
 url=https://github.com/aakk222/my-server-list/raw/refs/heads/main/LinLauncher.exe
 [list]
 ServerData0=jVEzJWi60Ulsu6xxbMrZehMN2BC7VlFX0g9b9an75QAnR3MoqvbI6mf0MULX/FTu+sbxCIOT8eOesh3pl54Xz9TnbvHakHIQDe/AbixhgBva2Yw086P5g6dr2i9L29S20O1F4vPl/M/nRM42Q9NXjZtbznfv0q/CW2brnxzgE3h/4TUg8Kuo51KS8sqiXmd/Uuk+kB/yW7WrEp+lnKcDSRBjjM9HHJx2LJSMcGO2r/MCrnMqu4QZ69ILZiKYIrkIb8I+dKp9AeQK73CSmVNjvQ6Z5lwv
 ServerData1=jVEzJWi60Ulsu6xxbMrZemQSWPcihLGwzGtIyBgRMvg62Goqiyrj5PNnt32+po6a+sbxCIOT8eOesh3pl54Xzxo3o6F/ZAs4xETs+RWLCb3a2Yw086P5g6dr2i9L29S2spvdVefR03ZViUvIpsEvlZtbznfv0q/CW2brnxzgE3h/4TUg8Kuo51KS8sqiXmd/Uuk+kB/yW7WrEp+lnKcDSRBjjM9HHJx2LJSMcGO2r/MCrnMqu4QZ69ILZiKYIrkIb8I+dKp9AeQK73CSmVNjvQ6Z5lwv
+
