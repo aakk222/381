@@ -1,8 +1,8 @@
 [main]
-count=1
+count=2
 url=https://github.com/aakk222/my-server-list/raw/refs/heads/main/
 [update]
-file_0=
+file_0=1.zip
 md5_0=bafe11d0f2c0e9b4cda1ff788077e23c
 file_1=
 md5_1=28537996a953084b55684ceb708bf64b
