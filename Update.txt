@@ -1,9 +1,9 @@
 [main]
-count=2
+count=0
 url=https://github.com/aakk222/my-server-list/raw/refs/heads/main/
 [update]
 file_0=1.zip
-md5_0=bafe11d0f2c0e9b4cda1ff788077e23c
+md5_0=5d5a37a96f34055352cc4c58636b4fdd
 file_1=
 md5_1=28537996a953084b55684ceb708bf64b
 file_2=
