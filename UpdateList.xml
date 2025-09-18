@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UpdateList>
+  <!--更新版本号-->
+  <Update Version="1">
+    <Item Version="1" Url="http://127.0.0.1/update/1.zip"/>
+  </Update>
+</UpdateList>
